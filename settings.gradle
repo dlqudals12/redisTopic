@@ -1,0 +1,5 @@
+rootProject.name = 'redisTest'
+include 'server21'
+include 'mainServer'
+include 'server12'
+
